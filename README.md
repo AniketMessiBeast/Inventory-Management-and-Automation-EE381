@@ -1,7 +1,7 @@
 # Inventory-Management-and-Automation-EE381
 A product-based project on an automated management system of any inventory.
 
-<u>Steps for using this project:-</u>
+## <u>Steps for using this project:- ##
 
 Please upload Inventory_manager_with_bluetooth.ino to Arduino Nano
 
